@@ -17,11 +17,11 @@
 		</classes>
 	</test>
 	
-	<test name="Flight Search Test">
+	<!-- <test name="Flight Search Test">
 		<classes>
 			<class name="com.saudhing.testcases.FlightSearchTest" />
 		</classes>
-	</test>
+	</test> -->
 	
 	<!-- Test -->
 </suite> <!-- Suite -->
