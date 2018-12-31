@@ -23,7 +23,7 @@ public class FlightSearchTest {
 		HomePage home = new HomePage();
 		
 		//Assert.assertEquals(home.findTabCount(), 5);
-		ErrorCollector.verifyEquals(home.findTabCount(), 7);
+		ErrorCollector.verifyEquals(home.findTabCount(), 5);
 		
 		home.goToFlights().bookAFlight("Delhi, India (DEL-Indira Gandhi Intl.)",
 				"Seattle, WA, United States (SEA-Seattle - Tacoma Intl.)", 
