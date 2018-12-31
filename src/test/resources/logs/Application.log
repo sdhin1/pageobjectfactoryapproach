@@ -1,0 +1,16 @@
+31/12/2018 16:37:40 devpinoyLogger Launching Chrome
+31/12/2018 16:37:54 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (08d2beed542fc6828e4c86cf9ca5a84b)] -> id: header-account-menu]
+31/12/2018 16:37:54 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (08d2beed542fc6828e4c86cf9ca5a84b)] -> id: account-signin]
+31/12/2018 16:37:58 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (08d2beed542fc6828e4c86cf9ca5a84b)] -> xpath: //input[@id='gss-signin-email']] entered value as : abcd@gmail.com
+31/12/2018 16:37:59 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (08d2beed542fc6828e4c86cf9ca5a84b)] -> xpath: //input[@id='gss-signin-password']] entered value as : 123456
+31/12/2018 16:37:59 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (08d2beed542fc6828e4c86cf9ca5a84b)] -> xpath: //button[@id='gss-signin-submit']]
+31/12/2018 16:38:04 devpinoyLogger Launching Chrome
+31/12/2018 16:38:17 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: tab-flight-tab-hp]
+31/12/2018 16:38:19 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: flight-origin-hp-flight] entered value as : Delhi, India (DEL-Indira Gandhi Intl.)
+31/12/2018 16:38:20 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: flight-destination-hp-flight] entered value as : Seattle, WA, United States (SEA-Seattle - Tacoma Intl.)
+31/12/2018 16:38:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: flight-departing-hp-flight] entered value as : 29/12/2019
+31/12/2018 16:38:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: flight-returning-hp-flight] entered value as : 29/12/2019
+31/12/2018 16:38:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: flight-adults-hp-flight] entered value as : 2
+31/12/2018 16:38:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: flight-children-hp-flight] entered value as : 1
+31/12/2018 16:38:22 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> id: flight-age-select-1-hp-flight] entered value as : 4
+31/12/2018 16:38:22 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on XP (c53ee40b45bbdda75f5a8d652e56a81e)] -> xpath: //button[@class='btn-primary btn-action gcw-submit']]
